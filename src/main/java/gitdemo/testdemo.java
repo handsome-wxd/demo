@@ -6,7 +6,6 @@ public class testdemo {
     public  void print()
     {
         System.out.println("hello git");
-        System.out.println("hello git4");
     }
     public testdemo() {
     }
